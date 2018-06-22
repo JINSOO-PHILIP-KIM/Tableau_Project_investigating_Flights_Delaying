@@ -5,7 +5,7 @@
 
 planes.csv : 전처리를 마치고 csv형태로 추출한 파일
 
-Planes_Data_Wrangling(Completed) : 파이썬으로 전처리한 과정을 html형태로 추출한 파일
+Planes_Data_Wrangling(Completed).html : 파이썬으로 전처리한 과정을 html형태로 추출한 파일
 
 Planes_Data_Wrangling.ipynb : 주피터노트북을 통한 파이썬으로 전처리한 과정을 담은 파일
 
