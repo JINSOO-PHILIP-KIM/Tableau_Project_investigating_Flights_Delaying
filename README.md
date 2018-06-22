@@ -5,4 +5,4 @@ In zip-file 'Write up.pdf' explains what's in side including data wrangling, gra
 
 Tableau work is directly available through below link.
 
-https://public.tableau.com/profile/philip4513#!/vizhome/Planes_4/Howtoavoiddelayedflights?publish=yes
+https://public.tableau.com/profile/philip4513#!/vizhome/Tableau_Flight_Project/Analysisofdelayedflights
