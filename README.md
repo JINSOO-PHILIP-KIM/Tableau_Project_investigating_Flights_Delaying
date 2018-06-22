@@ -1,7 +1,7 @@
 # Tableau_Project_Investigating_Flights_Delaying
 압축 파일 안의
 
-950988603_32018_530_airline_delay_causes.csv : 미국 Bereau of Transportation Statistics에서 2003년 ~ 2017년 데이터를 csv로 추출한 
+950988603_32018_530_airline_delay_causes.csv : 미국 Bereau of Transportation Statistics에서 2003년 ~ 2017년 데이터를 csv로 추출한 파일
 
 planes.csv : 전처리를 마치고 csv형태로 추출한 파일
 
